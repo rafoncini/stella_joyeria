@@ -2799,8 +2799,16 @@ body {
     cursor: pointer;
 }
 
-
-   
+.hero {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .hero-logo {
+    height: 260px;
+    margin-bottom: 10px;
+  }
+  
 
 
 
